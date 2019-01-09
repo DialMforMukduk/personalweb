@@ -1,6 +1,6 @@
 <template>
   <div class="VueToNuxtLogo">
-    <nuxt-link to="/">
+    <nuxt-link to="/home">
       <div class="Triangle">
         <img src="~assets/me.jpeg">
       </div>

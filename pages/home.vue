@@ -1,13 +1,13 @@
 <template>
   <section class="container-fluid">
     <div>
-      <logo />
       <h1 class="title">
-        Contact
+        Jared Carpenter
       </h1>
       <h2 class="subtitle">
-        me testing commits
+        Web dev
       </h2>
+      <logo />
       <div class="links">
         <a href="https://twitter.com/DialMforMukduk">
           <img
@@ -18,7 +18,7 @@
         </a>
         <a href="https://github.com/DialMforMukduk">
           <img
-            src="~assets/GitHub-Mark-Light-120px-plus.png"
+            src="~assets/GitHub-Mark-120px-plus.png"
             alt="Github"
             style="width:6.5%;height:6.5%;border:0;"
           >
