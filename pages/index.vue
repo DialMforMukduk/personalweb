@@ -62,14 +62,14 @@ export default {
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 100px;
+  font-size: 7vw;
   color: white;
   letter-spacing: 1px;
 }
 
 .subtitle {
   font-weight: 300;
-  font-size: 42px;
+  font-size: 5vw;
   color: white;
   word-spacing: 5px;
   padding-bottom: 15px;
