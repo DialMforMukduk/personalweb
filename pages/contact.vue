@@ -18,7 +18,7 @@
         </a>
         <a href="https://github.com/DialMforMukduk">
           <img
-            src="~assets/GitHub-Mark-Light-120px-plus.png"
+            src="~assets/GitHub-Mark-120px-plus.png"
             alt="Github"
             style="width:6.5%;height:6.5%;border:0;"
           >
