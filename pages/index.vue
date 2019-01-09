@@ -1,13 +1,13 @@
 <template>
   <section class="container-fluid">
     <div>
-      <logo />
       <h1 class="title">
         Jared Carpenter
       </h1>
       <h2 class="subtitle">
         Web dev
       </h2>
+      <logo />
       <div class="links">
         <a href="https://twitter.com/DialMforMukduk">
           <img
@@ -18,7 +18,7 @@
         </a>
         <a href="https://github.com/DialMforMukduk">
           <img
-            src="~assets/GitHub-Mark-Light-120px-plus.png"
+            src="~assets/GitHub-Mark-120px-plus.png"
             alt="Github"
             style="width:6.5%;height:6.5%;border:0;"
           >
@@ -53,26 +53,8 @@ export default {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url('~assets/back.jpg');
+  background-image: url('~assets/background.jpg');
   background-repeat: repeat;
-}
-
-.title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  display: block;
-  font-weight: 300;
-  font-size: 7vw;
-  color: white;
-  letter-spacing: 1px;
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 5vw;
-  color: white;
-  word-spacing: 5px;
-  padding-bottom: 15px;
 }
 
 .links {
