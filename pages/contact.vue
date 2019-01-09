@@ -6,7 +6,7 @@
         Contact
       </h1>
       <h2 class="subtitle">
-        me
+        me testing commits
       </h2>
       <div class="links">
         <a href="https://twitter.com/DialMforMukduk">
