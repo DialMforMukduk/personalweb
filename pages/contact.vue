@@ -112,21 +112,11 @@ export default {
 
 .title {
   font-family: "Montserrat", sans-serif;
-  display: block;
-  font-size: 4vw;
-  font-weight: bold;
+  font-size: 3vw;
   color: black;
   letter-spacing: 0.01vw;
 }
 
-.subtitle {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 425;
-  font-size: 3.75vw;
-  color: black;
-  letter-spacing: 0.01vw;
-  padding-top: 0vw;
-}
 
 .links {
   padding-top: 15px;
