@@ -2,9 +2,6 @@
   <section class="container-fluid">
     <div>
       <logo />
-      <h1 class="title">
-        Contact
-      </h1>
       <div class="row">
         <div
           class="col-7 mx-auto"
@@ -27,6 +24,9 @@
                   Don’t fill this out:
                   <input name="bot-field">
                 </label>
+              </p>
+              <p class="title">
+                Contact Me
               </p>
               <input
                 id="name"
@@ -52,7 +52,7 @@
                 type="submit"
                 value="Send message"
               >
-            </form>
+            </form><br>
           </div>
         </div>
       </div>
@@ -113,7 +113,7 @@ export default {
 .title {
   font-family: "Montserrat", sans-serif;
   display: block;
-  font-size: 7vw;
+  font-size: 4vw;
   font-weight: bold;
   color: black;
   letter-spacing: 0.01vw;
@@ -145,6 +145,24 @@ img {
 textarea {
   width: 100%;
   text-align: center;
+}
+
+#email {
+  width: 50%;
+  text-align: center;
+}
+
+#name {
+  width: 35%;
+  text-align: center;
+}
+
+.col-7 {
+  border-radius: 1vw;
+  background-color: rgba(131, 139, 139, .9);
+  border-color: black;
+  border-width: .1vw;
+  border-style: solid;
 }
 
 </style>
