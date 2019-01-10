@@ -108,7 +108,6 @@ export default {
   text-align: center;
   background-image: url("~assets/background.jpg");
   background-repeat: repeat;
-  background-size: contain;
 }
 
 .title {

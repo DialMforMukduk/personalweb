@@ -1,12 +1,6 @@
 <template>
   <section class="container-fluid">
     <div>
-      <h1 class="title">
-        Jared Carpenter
-      </h1>
-      <h2 class="subtitle">
-        Web dev
-      </h2>
       <logo />
       <div class="links">
         <a
@@ -61,7 +55,6 @@ export default {
   text-align: center;
   background-image: url('~assets/background.jpg');
   background-repeat: repeat;
-  background-size: contain;
 }
 
 .title {

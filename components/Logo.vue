@@ -2,7 +2,7 @@
   <div class="VueToNuxtLogo">
     <nuxt-link to="/home">
       <div class="Triangle">
-        <img src="~assets/me.jpeg">
+        <img src="~assets/JCwebdev.png">
       </div>
     </nuxt-link>
   </div>
@@ -15,8 +15,8 @@
   transform: rotateX(180deg);
   position: relative;
   overflow: hidden;
-  height: 180px;
-  width: 245px;
+  height: 100%;
+  width: 100%;
   border-width: 3em;
   border-color: black;
 }
