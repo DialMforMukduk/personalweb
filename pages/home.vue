@@ -9,14 +9,20 @@
       </h2>
       <logo />
       <div class="links">
-        <a href="https://twitter.com/DialMforMukduk">
+        <a
+          href="https://twitter.com/DialMforMukduk"
+          target="_blank"
+        >
           <img
             src="~assets/Twitter_Social_Icon_Circle_Color.png"
             alt="Twitter"
             style="width:6.5%;height:6.5%;border:0;"
           >
         </a>
-        <a href="https://github.com/DialMforMukduk">
+        <a
+          href="https://github.com/DialMforMukduk"
+          target="_blank"
+        >
           <img
             src="~assets/GitHub-Mark-120px-plus.png"
             alt="Github"
