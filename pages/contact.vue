@@ -5,7 +5,7 @@
       <h1 class="title">
         Contact
       </h1>
-      <div class="row justify-content-left">
+      <div class="row">
         <div
           class="col-7 mx-auto"
         >
@@ -30,25 +30,25 @@
               </p>
               <input
                 id="name"
-                class="form-field"
+                class="form-field rounded"
                 name="name"
                 placeholder="Name"
-              ><br>
+              ><br><br>
               <input
                 id="email"
-                class="form-field"
+                class="form-field rounded"
                 name="email"
                 placeholder="Email"
-              ><br>
+              ><br><br>
               <textarea
                 id="message"
-                class="form-field"
+                class="form-field rounded"
                 name="message"
                 rows="3"
                 placeholder="Message"
               /><br>
               <input
-                class="form-button"
+                class="form-button rounded"
                 type="submit"
                 value="Send message"
               >
@@ -108,6 +108,7 @@ export default {
   text-align: center;
   background-image: url("~assets/background.jpg");
   background-repeat: repeat;
+  background-size: contain;
 }
 
 .title {
@@ -144,6 +145,7 @@ img {
 
 textarea {
   width: 100%;
+  text-align: center;
 }
 
 </style>
