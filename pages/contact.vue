@@ -28,39 +28,24 @@
                   <input name="bot-field">
                 </label>
               </p>
-              <label
-                class="form-label"
-                for="name"
-              >
-                Name:
-              </label><br>
               <input
                 id="name"
                 class="form-field"
                 name="name"
+                placeholder="Name"
               ><br>
-              <label
-                class="form-label"
-                for="email"
-              >
-                Email:
-              </label><br>
               <input
                 id="email"
                 class="form-field"
                 name="email"
+                placeholder="Email"
               ><br>
-              <label
-                class="form-label"
-                for="message"
-              >
-                Message:
-              </label><br>
               <textarea
                 id="message"
                 class="form-field"
                 name="message"
                 rows="3"
+                placeholder="Message"
               /><br>
               <input
                 class="form-button"
