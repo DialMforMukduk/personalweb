@@ -33,7 +33,7 @@
                 for="name"
               >
                 Name:
-              </label>
+              </label><br>
               <input
                 id="name"
                 class="form-field"
@@ -44,7 +44,7 @@
                 for="email"
               >
                 Email:
-              </label>
+              </label><br>
               <input
                 id="email"
                 class="form-field"
@@ -55,7 +55,7 @@
                 for="message"
               >
                 Message:
-              </label>
+              </label><br>
               <textarea
                 id="message"
                 class="form-field"
@@ -155,6 +155,10 @@ img {
 
 .hidden {
   display: none;
+}
+
+textarea {
+  width: 100%;
 }
 
 </style>
